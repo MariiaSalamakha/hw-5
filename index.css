@@ -156,7 +156,7 @@ select {
 
   display: grid;
   grid-template-columns: 254px 254px 200px 216px;
-  column-gap: 110px;
+  column-gap: 50px;
   justify-content: center;
   align-content: center;
 }
