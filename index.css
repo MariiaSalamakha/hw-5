@@ -205,8 +205,8 @@ ul {
   text-transform: capitalize;
 }
 
-li {
-  color: #101010;
+a {
+  color: black;
 }
 
 .mail.number {
